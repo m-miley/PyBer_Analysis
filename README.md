@@ -29,7 +29,7 @@ Here we see that perhaps there's no strong correlation with number of rides and 
 
 ![Fig5](https://user-images.githubusercontent.com/100544761/164302185-a0425ad7-2b2c-4bda-b65e-bc7dab5f04ba.png) ![Fig6](https://user-images.githubusercontent.com/100544761/164302206-30c1849b-a211-4eeb-880b-88ca5e34cd73.png) ![Fig7](https://user-images.githubusercontent.com/100544761/164302230-cb05b3ea-75c4-40db-8552-3483d3dbd9b2.png)
 
-These figures express visually the summary statistics from our report in a different way, via percentages.  We see here just how significant each city type is pertaining to PyBer's total revenue.
+These figures express visually the summary statistics totals from our report in a different way, via percentages.  We see here just how significant each city type is pertaining to PyBer's total revenue.
 
 ### Line Graph
 

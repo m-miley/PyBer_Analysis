@@ -23,7 +23,7 @@ As one would expect, Urban cities carry a bulk of the volume when it comes to ri
 
 ![Fig1](https://user-images.githubusercontent.com/100544761/164301280-668175ce-0d54-4bac-ab8a-d3beaeca7cb2.png)
 
-Here we see that perhaps there's no strong correlation with number of rides and fare prices.  If anything there seems to be a negative correlation, meaning that the more total rides a city has the lower the average fares.  We can also clearly see again that Urban cities have bigger bubbles, meaning more drivers coinciding with the higher ride counts.
+Here we see that perhaps there's no strong correlation with number of rides and fare prices.  If anything there seems to be a negative correlation, meaning that the more total rides a city has the lower the average fares, again likely due to distances and compaction of landscape.  We can also clearly see again that Urban cities have bigger bubbles, meaning more drivers coinciding with the higher ride counts.
 
 ### Pie Charts
 

@@ -34,7 +34,7 @@ These figures express visually the summary statistics totals from our report in 
 
 ![Fig8](https://user-images.githubusercontent.com/100544761/164302763-4871db7b-3b06-488c-997b-69bf06510c8d.png)
 
-Total revenue was aggregated by week here and expressed over time showing us the trends during the selected time period.  Something happened late february that caused a spike in total fares for all categories followed by a month leveling out for suburban and rural cities, while urban cities continued to see fluctuations in revenue.  The environment and conditions for that time period is worth investigating further to discover reasons why we're seeing this undulating activity.
+Total revenue was aggregated by week here and expressed over time showing us the trends during the selected time period.  Something happened late february that caused a spike in total fares for all categories followed by a month leveling out for suburban and rural cities, while urban cities continued to see fluctuations in revenue.  The environment and conditions for that time period is worth investigating further to discover reasons why we're seeing this undulating activity and perhaps predict outcomes for next year.
 
 ### Outliers
 

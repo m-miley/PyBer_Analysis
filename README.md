@@ -8,8 +8,7 @@ Resources
 
 PyBer is a python-based ride sharing application. This analysis is performed on 4 months of ride sharing data for the start of 2019 to glean insights into the profitability and distribution of rides and drivers based on city type categories.  We will look at summary statistics as well as average fares and average driver counts for rural, suburban, and urban cities so that PyBer may make informed decisions.
 
-Furthermore, this analysis presents visualizations using pyplot from the matplotlib library to further describe the statistics and relationships such as a bubble chart for total number of rides, by city per city type, and fare amount whilst also showing driver counts.
-This analysis includes research of outliers using box-and-whisker plots, pie charts showing total fare percentages by city type, and a line chart representing a trend on weekly sum aggregations for our 3 city types.  Firstly, however, we will have a look at a summary statistics report highlighting key stats for each city type.
+Included are visualizations using pyplot from the matplotlib library to further describe the statistics and relationships such as a bubble chart for total number of rides per city by city type compared with average fares while also showing driver counts.  This analysis also includes pie charts showing total stats percentages by city type, a line chart representing a trend on weekly total fares for our 3 city types, and research of outliers using box-and-whisker plots.  Firstly, however, we will have a look at a summary statistics report highlighting key statistics for each city type.
 
 ## Results
 
@@ -37,6 +36,14 @@ These figures express visually the summary statistics totals from our report in 
 
 Total revenue was aggregated by week here and expressed over time showing us the trends during the selected time period.  Something happened late february that caused a spike in total fares for all categories followed by a month leveling out for suburban and rural cities, while urban cities continued to see fluctuations in revenue.  The environment and conditions for that time period is worth investigating further to discover reasons why we're seeing this undulating activity.
 
+### Outliers
+
+![Fig2](https://user-images.githubusercontent.com/100544761/164310899-319d977f-9e9c-4d75-ae7e-7f88c65a03a9.png)
+![Fig3](https://user-images.githubusercontent.com/100544761/164310913-dcc38bfb-be5e-4138-8603-a223867086ec.png)
+![Fig4](https://user-images.githubusercontent.com/100544761/164310258-442556b4-2f97-4766-8ae4-85d9e1d514df.png)
+
+The Data has integrity.  With one outlier and minor to no skewing for each category, we can confidently rely on our conclusions.
+
 ## Summary
 
 Based on the information gathered from the analysis, I make the following suggestions:
@@ -47,4 +54,4 @@ Based on the information gathered from the analysis, I make the following sugges
 4. Consider other forms of transportation to diversity our options for our customers in the urban settings.  
 5. Investigate late February and March to see if there is a pattern or anomaly.
 
-All in all, this analysis is more orienting than action driven.  Now, PyBer knows where it is in terms of best locations that support its business, how much it's bringing in weekly and from where, and how many employees and drivers are recorded completing rides.  If we are to conduct further analysis and zoom in more granularly, we can get more fulling insights on marketing, pricing, promotions, transportaion options, etc.  We could dig deeper to unearth insights that can lead us toward the best opportunities for effective growth and efficiency by looking at demographics, distance, trip duration, vehicle types, positional displacement in regards to start location and end location, time of day if we could get time stamp data.  There are many more questioins that arise from here where we can fine tune operatioins and make bigger and more confident decisions, however, this analysis report is a good place to start.  
+All in all, this analysis is more orienting than action driven.  Now, PyBer knows where it is in terms of best locations that support its business, how much it's bringing in weekly and from where, and how many employees and drivers are recorded completing rides.  If we are to conduct further analysis and zoom in more granularly, we can get more fulfilling insights on marketing, pricing, promotions, transportaion options, etc.  We could dig deeper to unearth insights that can lead us toward the best opportunities for effective growth and efficiency by looking at demographics, distance, trip duration, vehicle types, positional displacement in regards to start location and end location, time of day if we could get time stamp data.  There are many more questioins that arise from here where we can fine tune operatioins and make bigger and more confident decisions, however, this analysis report is a good place to start.  

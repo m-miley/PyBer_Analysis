@@ -26,7 +26,9 @@ Here we see that perhaps there's no strong correlation with number of rides and 
 
 ### Pie Charts
 
-![Fig5](https://user-images.githubusercontent.com/100544761/164302185-a0425ad7-2b2c-4bda-b65e-bc7dab5f04ba.png) ![Fig6](https://user-images.githubusercontent.com/100544761/164302206-30c1849b-a211-4eeb-880b-88ca5e34cd73.png) ![Fig7](https://user-images.githubusercontent.com/100544761/164302230-cb05b3ea-75c4-40db-8552-3483d3dbd9b2.png)
+![Fig5](https://user-images.githubusercontent.com/100544761/164369942-74f1f64b-8d2f-4b4c-9b24-f64eb7beff32.png)
+![Fig6](https://user-images.githubusercontent.com/100544761/164369955-60ad1a89-ecf9-4eb8-a4ae-1c48e992d870.png)
+![Fig7](https://user-images.githubusercontent.com/100544761/164369967-4954e705-8c7f-48f7-92fc-5198868c4f70.png)
 
 These figures visually express the summary statistics totals from the summary report in a different way, via percentages.  We see here just how significant each city type is pertaining to PyBer's total revenue.
 

@@ -57,3 +57,7 @@ Based on the information gathered from the analysis, I make the following sugges
 5. Investigate late February and March to see if there is a pattern or anomaly.
 
 All in all, this analysis is more orienting than action driven.  Now, PyBer knows where it is in terms of best locations that support its business, how much it's bringing in weekly and from where, and how many employees and drivers are recorded completing rides.  If we are to conduct further analysis and zoom in more granularly, we can get more fulfilling insights on marketing, pricing, promotions, transportaion options, etc.  We could dig deeper to unearth insights that can lead us toward the best opportunities for effective growth and efficiency by looking at demographics, distance, trip duration, vehicle types, positional displacement in regards to start location and end location, and activity by time of day if we could get time stamp data.  There are many more questioins that arise from here where we can fine tune operatioins and make bigger and more confident decisions, however, this analysis is a good place to start.  
+
+### Contact
+
+Email:  mrmileyy@gmail.com
